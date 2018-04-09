@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To_Do_List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_do_list_app">TO-DO LIST APP!</string>
+    <string name="long_press">Long press an item remove it.</string>
+    <string name="add">ADD</string>
+</resources>
