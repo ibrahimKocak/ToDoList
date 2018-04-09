@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0a8"
+    android:background="#098"
     tools:context="com.example.ibrah.to_do_list.ListFragment">
 
     <!-- TODO: Update blank fragment layout -->
